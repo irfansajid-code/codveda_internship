@@ -1,0 +1,17 @@
+beautifulsoup4
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+lxml
+statsmodels
+torch
+# tensorflow
+keras
+transformers
+dataset
+huggingface_hub[hf_xet]
+accelerate
+PyPDF2
