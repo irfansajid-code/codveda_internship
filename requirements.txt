@@ -8,11 +8,11 @@ seaborn
 lxml
 statsmodels
 torch
-# tensorflow
+tensorflow
 keras
 transformers
 dataset
-huggingface_hub[hf_xet]
-accelerate
+keras-tuner
+# accelerate
 PyPDF2
-gensim
+# gensim
